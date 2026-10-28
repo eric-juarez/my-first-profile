@@ -1,16 +1,18 @@
-## 👏 Hi, I'm *your name here*
+## 👋 Hi, I'm *Eric Juarez*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_My name is Eric Juarez and I am currently majoring in Cybersecurity at The University of Texas at San Antonio. I enjoy watching movies and hanging out with my friends in my free-time. I am not currently employed, but I am looking towards applying to upcoming internships this November._
 ## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+__Programming:__ C++, Bash
 
-_"Your sample quote here!"_
+__Platforms:__ Windows, Kali Linux
+## 🎉 Interests
+Cybersecurity
+
+Gaming
+
+Music
+## 🔗 Links
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/eric-juarez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-juarez-24b514398/)
+
+_"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." — Steve Jobs_
